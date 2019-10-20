@@ -14,7 +14,15 @@ url="https://www.facebook.com/pg/fundacja.postaremu/events/?ref=page_internal"
 img="https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/53478289_2469678709772911_8312942448749838336_o.jpg?_nc_cat=105&_nc_oc=AQn4vOlzfxrf1jFW6KaT0BrifVyG92Q4jHRgZthn2Ha8kv4eV_CqsdZPwv87e-b3c5g&_nc_ht=scontent-frt3-2.xx&oh=2c3104924bfea3577be30c94957408c6&oe=5E5E2980"
 desc="Nauka śpiewu i tańca tradycyjnego od podstaw.">
 </div>
-  
+
+<div class="tile" 
+day="30" month="X" time="18:00" venue="Teatr Szwalnia"
+title="Środy Po Staremu" 
+url="https://www.facebook.com/pg/fundacja.postaremu/events/?ref=page_internal" 
+img="https://scontent-frt3-2.xx.fbcdn.net/v/t1.0-9/53478289_2469678709772911_8312942448749838336_o.jpg?_nc_cat=105&_nc_oc=AQn4vOlzfxrf1jFW6KaT0BrifVyG92Q4jHRgZthn2Ha8kv4eV_CqsdZPwv87e-b3c5g&_nc_ht=scontent-frt3-2.xx&oh=2c3104924bfea3577be30c94957408c6&oe=5E5E2980"
+desc="Nauka śpiewu i tańca tradycyjnego od podstaw.">
+</div>
+
 <div class="tile" 
 day="17" month="XI" time="18:00" venue=""
 title="Prusinowski Trio" 
